@@ -12,7 +12,7 @@ export default {
       return {
         showStr: 'Hello Storybook'
       }
-    }
+    },
 }
 </script>
 
