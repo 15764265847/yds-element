@@ -10,7 +10,7 @@ export default {
     name: 'Login',
     data() {
       return {
-        showStr: 'Hello Storybook'
+        showStr: 'Hello Storybook ！！！'
       }
     },
 }
